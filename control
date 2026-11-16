@@ -1,0 +1,9 @@
+Package: com.jmswangit.substab
+Name: SubsTab
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds a Subscriptions tab back to the YouTube bottom bar.
+Maintainer: jmswangit
+Author: jmswangit
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
